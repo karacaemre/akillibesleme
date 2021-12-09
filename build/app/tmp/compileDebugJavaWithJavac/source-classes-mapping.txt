@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/akilli_besleme_sistemi/BuildConfig.java
+ com.example.akilli_besleme_sistemi.BuildConfig
